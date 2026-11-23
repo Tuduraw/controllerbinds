@@ -1,0 +1,41 @@
+{
+  "key.category.controllerbinds.main": "Controller Binds",
+  "key.controllerbinds.open_menu": "コントローラー割り当てメニューを開く",
+
+  "controllerbinds.screen.title": "コントローラーの割り当て",
+  "controllerbinds.screen.hint": "項目のボタンを押してからコントローラーの入力を押してください",
+  "controllerbinds.screen.listening": "%s: コントローラーの入力を押してください（Esc: 取消 / Delete: 解除）",
+  "controllerbinds.screen.clear": "解除",
+  "controllerbinds.screen.clear_all": "すべて解除",
+  "controllerbinds.screen.clear_all.confirm": "すべての割り当てを解除しますか？",
+  "controllerbinds.screen.clear_all.message": "選択中のコントローラーの割り当てがすべて未割り当てになります。",
+  "controllerbinds.screen.shared": "同じ入力を使用中: %s",
+
+  "controllerbinds.section.device": "コントローラー",
+  "controllerbinds.device.none": "コントローラーが接続されていません",
+  "controllerbinds.option.calibrate": "中立位置を記録",
+  "controllerbinds.option.calibrate.tooltip": "スティックやトリガーから手を離した状態で押してください。現在の軸の位置を「入力なし」として記録し直します。",
+  "controllerbinds.option.deadzone": "不感帯（マウス移動）",
+  "controllerbinds.option.press_threshold": "軸を押下とみなす量",
+  "controllerbinds.option.mouse_speed": "マウス移動速度",
+  "controllerbinds.monitor.label": "入力中:",
+  "controllerbinds.monitor.none": "なし",
+  "controllerbinds.monitor.calibrating": "中立位置を記録しています…",
+
+  "controllerbinds.input.none": "未割り当て",
+  "controllerbinds.input.button": "ボタン %s",
+  "controllerbinds.input.axis_positive": "軸 %s +",
+  "controllerbinds.input.axis_negative": "軸 %s -",
+
+  "controllerbinds.category.mouse": "マウス操作",
+  "controllerbinds.action.move_up": "マウス移動 上",
+  "controllerbinds.action.move_down": "マウス移動 下",
+  "controllerbinds.action.move_left": "マウス移動 左",
+  "controllerbinds.action.move_right": "マウス移動 右",
+  "controllerbinds.action.button_left": "左クリック",
+  "controllerbinds.action.button_right": "右クリック",
+  "controllerbinds.action.button_middle": "中クリック",
+  "controllerbinds.action.wheel_up": "ホイール 上",
+  "controllerbinds.action.wheel_down": "ホイール 下",
+  "controllerbinds.action.escape": "Esc（ポーズ / 画面を閉じる）"
+}

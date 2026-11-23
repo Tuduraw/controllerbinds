@@ -1,0 +1,41 @@
+{
+  "key.category.controllerbinds.main": "Controller Binds",
+  "key.controllerbinds.open_menu": "Open Controller Binds Menu",
+
+  "controllerbinds.screen.title": "Controller Binds",
+  "controllerbinds.screen.hint": "Click an entry's button, then press a controller input",
+  "controllerbinds.screen.listening": "%s: press a controller input (Esc: cancel / Delete: unbind)",
+  "controllerbinds.screen.clear": "Unbind",
+  "controllerbinds.screen.clear_all": "Unbind All",
+  "controllerbinds.screen.clear_all.confirm": "Unbind all controller inputs?",
+  "controllerbinds.screen.clear_all.message": "Every binding of the selected controller will be removed.",
+  "controllerbinds.screen.shared": "Also used by: %s",
+
+  "controllerbinds.section.device": "Controller",
+  "controllerbinds.device.none": "No controller connected",
+  "controllerbinds.option.calibrate": "Recalibrate",
+  "controllerbinds.option.calibrate.tooltip": "Press with sticks and triggers released. The current axis positions are recorded as \"no input\".",
+  "controllerbinds.option.deadzone": "Deadzone (mouse movement)",
+  "controllerbinds.option.press_threshold": "Axis press threshold",
+  "controllerbinds.option.mouse_speed": "Mouse speed",
+  "controllerbinds.monitor.label": "Active:",
+  "controllerbinds.monitor.none": "none",
+  "controllerbinds.monitor.calibrating": "Recording neutral positions...",
+
+  "controllerbinds.input.none": "Not bound",
+  "controllerbinds.input.button": "Button %s",
+  "controllerbinds.input.axis_positive": "Axis %s +",
+  "controllerbinds.input.axis_negative": "Axis %s -",
+
+  "controllerbinds.category.mouse": "Mouse",
+  "controllerbinds.action.move_up": "Move Mouse Up",
+  "controllerbinds.action.move_down": "Move Mouse Down",
+  "controllerbinds.action.move_left": "Move Mouse Left",
+  "controllerbinds.action.move_right": "Move Mouse Right",
+  "controllerbinds.action.button_left": "Left Click",
+  "controllerbinds.action.button_right": "Right Click",
+  "controllerbinds.action.button_middle": "Middle Click",
+  "controllerbinds.action.wheel_up": "Scroll Up",
+  "controllerbinds.action.wheel_down": "Scroll Down",
+  "controllerbinds.action.escape": "Esc (Pause / Close Screen)"
+}

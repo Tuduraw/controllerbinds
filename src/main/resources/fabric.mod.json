@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "controllerbinds",
+  "version": "${version}",
+  "name": "Controller Binds",
+  "description": "Assign controller / joystick inputs directly to key-binding operations and mouse actions, independently of the keyboard bindings.",
+  "authors": ["Tuduraw"],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["com.tuduraw.controllerbinds.ControllerBindsClient"]
+  },
+  "mixins": ["controllerbinds.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.17.0",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
